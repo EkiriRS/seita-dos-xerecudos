@@ -1,5 +1,14 @@
 body{
     font-family: "Bokor", system-ui;
-    background-color: black;
+    background-color: white;
     color: red;
+    margin: 0px;
+    margin-bottom: 100px;   
+}
+.chamada{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
